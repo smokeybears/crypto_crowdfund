@@ -1,0 +1,24 @@
+{
+  "name": "APU Donate",
+  "version": "1.0.0",
+  "description": "Crowd funding site with ethereum smart contract as the means of transactions",
+  "main": "index.js",
+  "author": "Peter Cusack",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "bluebird": "^3.5.0",
+    "bunyan": "^1.8.10",
+    "client-sessions": "^0.8.0",
+    "dotenv": "^4.0.0",
+    "faker": "^4.1.0",
+    "moment": "^2.20.1",
+    "pg": "^6.1.5",
+    "restify": "^4.3.0",
+    "restify-cookies": "^0.2.2",
+    "restify-cors-middleware": "^1.1.0",
+    "restify-session": "^1.1.1",
+    "twilio": "^2.11.1",
+    "uuid": "^3.2.1"
+  }
+}
